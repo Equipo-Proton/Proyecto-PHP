@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Kreon:wght@700&family=Scheherazade+New&display=swap');
+
 :root {
-    --vt-c-black: #000000;
+    --vt-c-black: #080E09;
     --vt-c-green: #87c639;
 
     --vt-c-yellow: #f5d627;
@@ -43,10 +45,22 @@ body {
     position: relative;
     height: 100vh;
     width: 100vw;
-    /* font-family: ; */
     text-rendering: optimizeLegibility;
     background-repeat: no-repeat;
     background: linear-gradient(296.17deg, #87c639 0%, #f5d627 99.07%);
+}
+
+header {
+    font-family: 'Kreon', serif;
+
+}
+
+h2 {
+    font-family: 'Scheherazade New', serif;
+}
+
+main {
+    font-family: 'Andika', sans-serif;
 }
 
 @media (max-width: 700px) {
