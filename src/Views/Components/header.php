@@ -7,7 +7,7 @@
             </div>
             <div class="col-2 secondContainer">
                 <a href="?action=create">
-                    <img class="button" src="public/img/CreateIcon.png" alt="">
+                    <img class="button" src="public/img/CreateIcon.svg" alt="New Class">
                 </a>
             </div>
         </div>
@@ -18,5 +18,3 @@
         </div>
     </div>
 </header>
-
-

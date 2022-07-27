@@ -31,6 +31,10 @@ h1 {
     height: 70px;
 }
 
+.button:hover {
+    filter: sepia(100%);
+}
+
 .firstContainer {
     display: flex;
     justify-content: center;
